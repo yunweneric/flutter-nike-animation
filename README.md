@@ -7,7 +7,7 @@ flutter pub get
 flutter run
 ```
 
-- [Figma File ](<https://www.figma.com/design/Sn883J01rFsGdS14wujOGz/Intro-Slider-Effect-Animation-di-Figma-(Community)?m=auto&t=gsWnRx3mJ5asf87c-6>)
+- [Figma File ](<https://www.figma.com/design/Sn883J01rFsGdS14wujOGz/Intro-Slider-Effect-Animation-di-Figma-(Community)?node-id=0%3A1&t=xnD31wuPmzp6nC0g-1>)
 
 - [Demo Link]()
 
@@ -20,4 +20,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="https://github.com/yunweneric/flutter-3DCarousel-Slider/blob/main/demo.png?raw=true"/>
+<img src="https://github.com/yunweneric/flutter-nike-animation/blob/main/ui.gif?raw=true"/>
