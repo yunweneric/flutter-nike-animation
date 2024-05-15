@@ -20,7 +20,7 @@ class Follow extends StatelessWidget {
   List<Link> links = [
     Link(0, "github", "https://github.com/yunweneric/", "Github"),
     Link(1, "x", "https://twitter.com/yunweneric", "X"),
-    Link(2, "linkedIn", "https://www.linkedin.com/in/yunwen-eric-40517a147/", "LinkedIn"),
+    Link(2, "linkedIn", "https://www.linkedin.com/in/yunweneric", "LinkedIn"),
   ];
 
   Color generateColor(int activeIndex, int index) {
