@@ -9,7 +9,7 @@ flutter run
 
 - [Figma File ](<https://www.figma.com/design/Sn883J01rFsGdS14wujOGz/Intro-Slider-Effect-Animation-di-Figma-(Community)?node-id=0%3A1&t=xnD31wuPmzp6nC0g-1>)
 
-- [Demo Link]()
+- [Demo Link](https://flutter-nike-animation.netlify.app/)
 
 A few resources to get you started if this is your first Flutter project:
 
